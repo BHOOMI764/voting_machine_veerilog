@@ -18,3 +18,4 @@ Power supply and necessary connections
 Software Requirements
 Verilog-compatible synthesis tool (e.g., Xilinx Vivado)
 Simulation tool (optional, e.g., ModelSim)
+
